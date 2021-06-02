@@ -1,4 +1,4 @@
-import useLocalStorage from './useLocalStorage';
+import useLocalStorage from './useDarkMode';
 
 const useToggle = (key, value) => {
     // useLocalStorage hook persists toggle state through a page refresh.
